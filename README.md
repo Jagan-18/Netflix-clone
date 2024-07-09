@@ -1,3 +1,8 @@
+
+
+![Netflix-clone OverView img](https://github.com/Jagan-18/Netflix-clone/assets/97144563/0f7759c3-7f82-46d4-a760-492888a26fd4)
+
+
 <div align="center">
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
